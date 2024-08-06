@@ -1,10 +1,12 @@
 # OR2LouderEngineSound
 Quieter Sound Effects Pack to make for a louder Ferrari Engine Sound In Outrun 2 Pc
 
-### What I can do
-I can import the files into audition as raw audio and I know how to make the changes. I can also export the files as raw audio but this breaks the file if I make any changes. 
+This release lowers the volume of the other sounds by 50% so the engine sounds louder. You'll still to go into audio settings and  turn the music down (by upto 50%) to create a balance that you like and then turn up the overall volume on your headphones.
 
-### Problem
+NOTES:
+- English only.
+- It works on most (but not all) modes. I know it doesn't work on heart attack mode (because there were just too many sounds to edit (would take too long using the currently available tools and limited automation available).
+- remember that this is more of a rebalance and you need to edit your settings to get the desired effect.
 
-The .pak files seem to contain more than just raw audio. They need to be properly unpacked so that only the audio portion can edited and put back into the .PAK so Outrun 2 won't crash when it loads the file.
-
+INSTALLATION
+Backup the SOUNDS subfolder (in your outrun 2 installation folder) then copy the files from the zip into it, overwriting the existing files.
